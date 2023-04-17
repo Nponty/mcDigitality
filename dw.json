@@ -3,5 +3,5 @@
     "username": "abosco@visioture.com",
     "password": "Sara@$01",
     "cartridge": ["modules","app_storefront_base","bm_app_storefront_base","app_storefront_pipelines","app_storefront_core","app_storefront_controllers"],
-    "code-version": "10_0"
+    "code-version": "11_0"
 }
